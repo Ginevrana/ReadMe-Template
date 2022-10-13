@@ -6,12 +6,10 @@
 <h1> Título de Proyecto </h1>
 
 <h3>Breve descripción del proyecto</h3>
-
-<h5>ID Proyecto - Hipervínculo</h5>
-
 <span>
-
+Versión 1.0 - PHP 7.4 - Moodle 4.0
 </span>
+<h5>ID Proyecto - Hipervínculo</h5>
 
 </div>
 
@@ -50,13 +48,20 @@ Descripción más extensa del proyecto, donde se detalle lo siguiente:
 
 
 <h2>Librerías</h2>
-
+Esta sección tendría que listar cualquier framework o librería usada para el proyecto. Dejar cualquier add-on o plugin para la sección de reconocimientos.
+- Bootstrap
+- Laravel
+- Tailwind css
+- Mustache
 
 <h2>Empezando</h2>
-
-
+Este puede ser un ejemplo de como podrías dar las instrucciones para levantar tu proyecto localmente. Para tener una copia local hay que correr los siguientes pasos de ejemplo.
 <h3>Prerrequisitos</h3>
-
+Este es un ejemplo de cómo listar cosas que necesitas para usar el software y como instalarlos.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 <h3>Instalación</h3>
 
 <h3>Configuración</h3>
