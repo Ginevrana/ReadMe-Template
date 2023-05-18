@@ -145,20 +145,36 @@ Listado de repos o carpetas de proyectos que guarden relación o puedan resultar
 
 Iconos para commits
 
-:bug: Fixes
+:bug: Fixes 
+<br/>
 :zap:chore: Mejoras
+<br/>
 :bookmark:tags: Etiquetas, versión
+<br/>
 :arrow_up: Actualización
+<br/>
 :sparkles: Features
+<br/>
 :recycle: Refactorización
+<br/>
 :memo: Pendientes por agregar
+<br/>
 :camera_flash: Agregado de imágenes
+<br/>
 :art: Estilado y formato
+<br/>
 :rocket: Lanzamiento de proyecto
+<br/>
 :construction: Mantenimiento
+<br/>
 :speech_balloon: Se agregan commentarios
+<br/>
 :twisted_rightwards_arrows: Mergeo de ramas
+<br/>
 :tada: Logro
+<br/>
 :wrench: Fix
+<br/>
 :heavy_plus_sign: Agregado en proyecto
+<br/>
 :alien: Cuando pinte
