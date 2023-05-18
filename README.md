@@ -141,3 +141,24 @@ Listado de repos o carpetas de proyectos que guarden relación o puedan resultar
 
 <strong><p align="right"><a href="#top">Volver 👆🏻</a></p></strong>
 
+
+
+Iconos para commits
+
+:bug: Fixes
+:zap:chore: Mejoras
+:bookmark:tags: Etiquetas, versión
+:arrow_up: Actualización
+:sparkles: Features
+:recycle: Refactorización
+:memo: Pendientes por agregar
+:camera_flash: Agregado de imágenes
+:art: Estilado y formato
+:rocket: Lanzamiento de proyecto
+:construction: Mantenimiento
+:speech_balloon: Se agregan commentarios
+:twisted_rightwards_arrows: Mergeo de ramas
+:tada: Logro
+:wrench: Fix
+:heavy_plus_sign: Agregado en proyecto
+:alien: Cuando pinte
